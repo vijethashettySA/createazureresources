@@ -19,7 +19,7 @@ steps:
     resourceGroupName: 'LearnDevops'
     location: 'Central US'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://raw.githubusercontent.com/vijethashettySA/createazureresources/main/CreatewebApp/azuredeploy.json
+    csmFileLink: 'https://raw.githubusercontent.com/vijethashettySA/createazureresources/main/CreatewebApp/azuredeploy.json'
     overrideParameters: '-AzureResources'
     deploymentMode: 'Incremental'
     deploymentName: 'CreateAzureResources'
